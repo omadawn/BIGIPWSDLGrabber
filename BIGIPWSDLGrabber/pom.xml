@@ -60,4 +60,7 @@
           <url>scp://www.f5se.com/var/www/repository/</url>
       </repository>
   </distributionManagement>
+  <scm>
+  	<url>https://github.com/jgruber/BIGIPWSDLGrabber.git</url>
+  </scm>
 </project>
