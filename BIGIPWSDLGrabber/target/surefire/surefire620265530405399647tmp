@@ -1,0 +1,5 @@
+#surefire
+#Tue Mar 27 17:12:47 CDT 2012
+user.dir=/data/project/BIGIPWSDLGrabber/BIGIPWSDLGrabber
+localRepository=/home/jgruber/.m2/repository
+basedir=/data/project/BIGIPWSDLGrabber/BIGIPWSDLGrabber
